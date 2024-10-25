@@ -1,7 +1,7 @@
 # Human Trafficking Trends Analysis Dashboard
 
 ## Tableau Public Link
-[[https://public.tableau.com/views/Midterminprogress/Home?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/rebecca.carter7015/viz/Midterminprogress/Home)]
+Dashboard: [Trafficking Data Analysis Dashboard on Tableau Public](https://public.tableau.com/app/profile/rebecca.carter7015/viz/Midterminprogress/Home).
 
 ## Introduction
 This project presents a comprehensive Tableau dashboard analyzing human trafficking trends globally and regionally, with a specific focus on the United States. The dashboard leverages UNODC trafficking data to visualize key metrics, including victim demographics by gender and age, as well as prosecution and conviction rates. The primary objective is to provide insights into global and U.S. trafficking patterns, demographic distributions, and legal response effectiveness. By integrating interactive visuals, this project enables users to explore trafficking data across multiple dimensions, supporting a deeper understanding of regional and temporal trends in trafficking cases.
@@ -21,13 +21,15 @@ Advanced Filtering Options: Incorporating multi-level drill-down capabilities fo
 Predictive Analytics: Introducing trend forecasting for prosecution and conviction rates could help anticipate future changes and identify emerging trends in trafficking cases.
 
 ## Data UNODC - Metadata Information
-- **DataSource**Trafficking in Persons
+**Trafficking in Persons**
 The tables include figures on detected trafficking victims and persons convicted of
 trafficking in persons at national, regional and global level. National data are
 submitted by Member States to UNODC through the United Nations Questionnaire
 for the Global Report on Trafficking in Persons (GLOTIP) or other means.
 Dataset characteristics
-<Strong>Access link: https://dataunodc.un.org/dp-trafficking-persons</Strong>
+**Access Link** https://dataunodc.un.org/dp-trafficking-persons
+**Original DataSet**https://dataunodc.un.org/sites/dataunodc.un.org/files/data_glotip.xlsx
+**MetaData**https://dataunodc.un.org/sites/dataunodc.un.org/files/metadata_trafficking_in_persons.pdf
 Last update: 24/01/2023
 Base period: Calendar Year
 Data source(s): National data on trafficking in persons collected through the GLOTIP. Please see
