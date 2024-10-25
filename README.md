@@ -1,7 +1,7 @@
 # Human Trafficking Trends Analysis Dashboard
 
 ## Tableau Public Link
-[[https://public.tableau.com/views/Midterminprogress/Home?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/rebecca.carter7015/viz/Midterminprogress/Home)](https://public.tableau.com/views/Midterminprogress/ProsecutionandConvictionRates?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[[https://public.tableau.com/views/Midterminprogress/Home?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/rebecca.carter7015/viz/Midterminprogress/Home)]
 
 ## Introduction
 This project presents a comprehensive Tableau dashboard analyzing human trafficking trends globally and regionally, with a specific focus on the United States. The dashboard leverages UNODC trafficking data to visualize key metrics, including victim demographics by gender and age, as well as prosecution and conviction rates. The primary objective is to provide insights into global and U.S. trafficking patterns, demographic distributions, and legal response effectiveness. By integrating interactive visuals, this project enables users to explore trafficking data across multiple dimensions, supporting a deeper understanding of regional and temporal trends in trafficking cases.
