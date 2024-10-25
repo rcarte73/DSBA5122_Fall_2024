@@ -29,12 +29,17 @@ for the Global Report on Trafficking in Persons (GLOTIP) or other means.
 Dataset characteristics
 
 **Access Link** https://dataunodc.un.org/dp-trafficking-persons
+
 **Original DataSet**https://dataunodc.un.org/sites/dataunodc.un.org/files/data_glotip.xlsx
+
 **MetaData**https://dataunodc.un.org/sites/dataunodc.un.org/files/metadata_trafficking_in_persons.pdf
-Last update: 24/01/2023
-Base period: Calendar Year
-Data source(s): National data on trafficking in persons collected through the GLOTIP. Please see
-below for National data collection sources.
-Contact
+
+**Last Update:** 24/01/2023
+
+**Base Period:** Calendar Year
+
+**Data Source(s):**  National data on trafficking in persons collected through the GLOTIP. Please see below for National data collection sources:
+
+<u>Contact</u>
 United Nations Office on Drugs and Crime
 Email: unodc-ddds@un.org 
